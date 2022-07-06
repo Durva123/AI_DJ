@@ -1,0 +1,87 @@
+.Divspeed{
+    float:left;
+}
+
+.Divvol{
+    float:right;  
+}
+
+.imgDiskSpeed{
+    border-radius:100px;
+    width:200px;
+    height:200px;
+    margin-left:50px;
+}
+
+.imgDiskVol{
+    border-radius:100px;
+    width:200px;
+    height:200px;
+    margin-right:50px;
+}
+
+body{
+    background-size:cover;
+}
+
+.labelSpeed{
+    font-size:25px;
+    font-family:merriweather;
+    background:rgb(1, 17, 96);
+    color:white;
+    width:175px;
+    text-align:left;
+    border-radius:40px;
+    height:50px;
+    padding-left:15px;
+    padding-top:10px;
+}
+
+.labelVol{
+    font-size:25px;
+    font-family:merriweather;
+    background:rgb(1, 17, 96);
+    color:white;
+    width:175px;
+    text-align:left;
+    border-radius:40px;
+    height:50px;
+    padding-left:15px;
+    padding-top:10px;
+}
+
+.play{
+    font-size:25px;
+    font-family:merriweather;
+    background:rgb(1, 17, 96);
+    color:white;
+    width:175px;
+    text-align:center;
+    border-radius:40px;
+    height:50px;
+    width:100x;
+}
+
+.head{
+    font-size:40px;
+    font-family:penultimate;
+    color:white;
+    width:350px;
+    background:rgb(0, 0, 0);
+    border-radius:100px;
+}
+
+.note{
+    padding-top:15px;
+    font-size:20px;
+    font-family:merriweather;
+    color:white;
+    background:rgb(0, 0, 0);
+    text-align:center;
+    padding-bottom:10px;
+}
+
+canvas{
+    border:3px white dashed;
+    
+}
